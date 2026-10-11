@@ -1,0 +1,38 @@
+{
+  "allowedTools": {
+    "Read": [
+      "*"
+    ],
+    "Write": [
+      "*"
+    ],
+    "Edit": [
+      "*"
+    ],
+    "Glob": [
+      "*"
+    ],
+    "Grep": [
+      "*"
+    ],
+    "Agent": [
+      "*"
+    ],
+    "Bash": [
+      "*"
+    ],
+    "WebSearch": [
+      "*"
+    ],
+    "WebFetch": [
+      "*"
+    ],
+    "NotebookEdit": [
+      "*"
+    ],
+    "TodoWrite": [
+      "*"
+    ]
+  },
+  "defaultMode": "bypassPermissions"
+}
